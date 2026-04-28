@@ -20,8 +20,3 @@ The HC-05 module receives commands from a mobile app and sends them to Arduino. 
 - R → Right  
 - S → Stop  
 
-## 📂 Files Included
-- Code (in code folder)
-- PDF documentation
-- Circuit diagram
-- Images
